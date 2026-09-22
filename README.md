@@ -1,5 +1,7 @@
 # 中国象棋DeepSeek智能版本
 
+English name: **ChineseChess with deepseek**
+
 这是一个面向 Windows x64 的本地中国象棋软件。棋盘、残局编辑器和规则判断在本机运行，棋力由官方 Pikafish 2026-09-06 引擎提供。
 
 ## 启动
